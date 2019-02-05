@@ -3,7 +3,6 @@ require 'pry'
 #1 
 def division(num1, num2)
 num1 / num2
-binding.pry
 end
 
 #2
